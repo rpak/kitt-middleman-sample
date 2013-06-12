@@ -1,0 +1,5 @@
+%h1 Top 10 Sports Cars for 2013
+
+%ul.list-panel
+  - data.sports_cars.list_items.each do |item|
+    = partial 'widgets/list_item_summary', locals: {item: item}

@@ -1,0 +1,31 @@
+list_items:
+  - name: 2012 Honda Civic Si Sedan
+    price: 22555
+    image: http://l.yimg.com/dv/aic/honda_civic_si_sedan_2012
+  - name: 2013 Chevrolet Camaro
+    price: 23345
+    image: http://l.yimg.com/dv/aic/chevrolet_camaro_2013
+  - name: 2013 Scion FR- name:S
+    price: 24500
+    image: http://l.yimg.com/dv/aic/scion_fr_s_2013
+  - name: 2013 Ford Mustang
+    price: 22200
+    image: http://l.yimg.com/dv/aic/ford_mustang_2013
+  - name: 2012 Ferrari 458 Italia
+    price: 229825
+    image: http://l.yimg.com/dv/aic/ferrari_458_italia_2012
+  - name: 2012 BMW 3 Series Sedan
+    price: 34900
+    image: http://l.yimg.com/dv/aic/bmw_3_series_sedan_2012
+  - name: 2013 Dodge Dart
+    price: 15995
+    image: http://l.yimg.com/dv/aic/dodge_dart_2013
+  - name: 2013 Subaru BRZ
+    price: 25495
+    image: http://l.yimg.com/dv/aic/subaru_brz_2013
+  - name: 2012 Lamborghini Aventador
+    price: 376000
+    image: http://l.yimg.com/dv/aic/lamborghini_aventador_2012
+  - name: 2013 Chevrolet Corvette Coupe
+    price: 111600
+    image: http://l.yimg.com/dv/aic/chevrolet_corvette_coupe_2013
